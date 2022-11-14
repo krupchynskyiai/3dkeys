@@ -26,8 +26,7 @@ body {
 @media (max-width: 1008px) {
 iframe {
     display: none;
-}
-    
+    }
 #notification {
     position: absolute;
     margin-left: auto;
@@ -42,3 +41,6 @@ iframe {
     font-weight: bold;
     color: #000
     }
+}
+    
+
